@@ -20,3 +20,4 @@ ALGO=rx/0
 DONATE=1
 echo $cpuname" is starting"
 screen -d -m ./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.metan -p x -a $ALGO -k --tls
+
